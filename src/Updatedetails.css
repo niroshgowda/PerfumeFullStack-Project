@@ -1,0 +1,39 @@
+.signup-form{
+    margin-left: 40%;
+    margin-top: 15%;
+    
+}
+.header92{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 5%;
+    margin-left: 2%;
+    font-size: 50px;
+}
+.inputtt{
+    margin-left: 40%;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.but92{
+    margin-left: 40%;
+    color: brown;
+    font-size: large;
+}
+.ecancelbtn{
+    color: brown;
+    font-size: large;
+}
+
+.vinimg{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    height: 80%;
+    width: 30%;
+}
+#update{
+    position: absolute;
+    top: 20%;
+    left: 60%;
+}
+

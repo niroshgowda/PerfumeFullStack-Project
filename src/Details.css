@@ -1,0 +1,89 @@
+.img3
+{
+    position: fixed;
+    left: 0%;
+    background-size: cover;
+}
+.book3
+{
+    position: absolute;
+    top: 80px;
+    left: 650px;
+}
+.head3
+{
+    position: absolute;
+    font-size: 40px;
+    font-style: normal;
+    font-family: 'inter';
+    font-weight: 500;
+    left: 1070px;
+    top: 80px;
+    width: 380px;
+   color: rgb(236, 48, 15);
+   
+}
+.form3
+{
+    position: absolute;
+    left: 970px;
+    top: 30px;
+    height: 700px;
+    width: 405px;
+    border-radius: 100px;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.159);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.579);
+    padding: 20px;
+}
+
+.rectangle3
+{
+  border-radius: 10px;
+}
+  input[type=text4], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 9px 0;
+    font-size: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 15%;
+    
+  }
+  
+  input[type=submit] {
+    height: 45px;
+    width: 100px;
+    background-color: #29e041;
+    color: white;
+    padding: 14px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-sizing: border-box;
+    margin-left: 50%;
+  }
+  
+ 
+  label {
+    display: inline-block;
+    width: 250px;
+    color: #31cac2;
+    font-family: cursive;
+    font-size: larger;
+  }
+.log{
+  font-family: Arial;
+    width: 90px;
+    height: 30px;
+    background: #f40404a9;
+    border: none;
+    margin-left: 30%;
+   
+    font-size: 15px;
+    
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s ease;
+}
